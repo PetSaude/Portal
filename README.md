@@ -1,2 +1,2 @@
 # Portal
-Repositório para os Arquivos do Portal do Projeto PetSaúde
+Repositório para os arquivos do Portal PetSaúde
